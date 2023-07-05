@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Caprasimo&family=Libre+Baskerville:wght@700&display=swap');
+*{
+    padding: 0%;
+    margin: 0%;
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-family: Libre Baskerville;
+    font-size: 30px;
+    margin: 7px;
+    padding-right: 25px;
+   
+
+    
+}
+nav{
+    display: flex;
+    justify-content: center;
+    background-color: black;
+}
+body{
+    background: rgb(251,63,63);
+    background: radial-gradient(circle, rgba(251,63,63,0.9337494850158692) 0%, rgba(130,109,113,1) 100%);
+
+    background: rgb(237,0,0);
+background: radial-gradient(circle, rgba(237,0,0,1) 0%, rgba(0,0,0,1) 100%);
+
+
+}
+section{
+    display: flex;
+    justify-content: center;
+}
+img{
+    margin: 30px;
+    width: 700px;
+    border-radius: 10px;
+}
+a:hover{
+    /* color: rgb(10, 174, 21); */
+    font-size: 32px;
+}
+/* img:hover{
+    width: 710px;
+} */
